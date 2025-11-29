@@ -1,4 +1,4 @@
 venv
 tasks.db
 .idea
-_pycache_
+__pycache__
